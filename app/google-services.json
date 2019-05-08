@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "409370503297",
+    "firebase_url": "https://ibandla-lakwa-marwa.firebaseio.com",
+    "project_id": "ibandla-lakwa-marwa",
+    "storage_bucket": "ibandla-lakwa-marwa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409370503297:android:998a4067a8a1af6b",
+        "android_client_info": {
+          "package_name": "com.mobile.ibandlalakwamarwa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409370503297-qk3ei6fks0of0vpre2v73uiqbus0fhc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6qjOvSNIakXKVRZu8d1NPnI0AWR_pWSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409370503297-qk3ei6fks0of0vpre2v73uiqbus0fhc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

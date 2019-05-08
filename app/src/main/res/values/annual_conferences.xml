@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="annual_conferences">
+        <item>Inkonzo yephasika</item>
+        <item>Inkonzo yesinodi</item>
+        <item>Inkonzo yentsha</item>
+        <item>Inkonzo yomama</item>
+    </string-array>
+
+</resources>

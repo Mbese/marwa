@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Ikhasi Lasekhaya" />
+
+    <item
+        android:id="@+id/about_btn"
+        android:icon="@drawable/ic_send_black_24dp"
+        android:title="Mayelana Nenkonzo" />
+
+    <item
+        android:id="@+id/leadership_btn"
+        android:icon="@drawable/ic_send_black_24dp"
+        android:title="Ubuholi bebandla" />
+
+    <item
+        android:id="@+id/announcements"
+        android:icon="@drawable/ic_announcement_black_24dp"
+        android:title="Izimemezelo" />
+
+    <item android:title="Izingqungquthela ezizayo">
+        <menu>
+            <item
+                android:id="@+id/annual_conferences"
+                android:icon="@drawable/ic_add_alert_black_24dp"
+                android:title="Izingqungquthela Zonyaka" />
+            <item
+                android:id="@+id/regional_conferences"
+                android:icon="@drawable/ic_add_alert_black_24dp"
+                android:title="Izingqungquthela Zezifunda" />
+        </menu>
+    </item>
+
+</menu>

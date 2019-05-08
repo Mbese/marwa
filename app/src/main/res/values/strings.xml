@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ibandla Lakwa Marwa</string>
+    <string name="nav_header_desc">Navigation Header</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="announcement_title">Title</string>
+    <string name="announcement_message">Message</string>
+    <string name="conf_start_date">Usuku eqala ngalo</string>
+    <string name="conf_end_date">Usuku ephela ngalo</string>
+    <string name="conf_start_time">Isikhathi sokungena</string>
+    <string name="conf_end_time">Isikhathi sokuphuma</string>
+    <string name="conf_address">Indawo</string>
+    <string name="conf_organizer">Umhleli</string>
+    <string name="conf_organizer_contacts">Inombolo yocingo</string>
+    <string name="welcome_text">HOLY ETHOPIAN CATHOLIC CHURCH IN ZION</string>
+</resources>
